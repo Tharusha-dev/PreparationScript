@@ -1,0 +1,32 @@
+{
+    "modes" : [
+        {
+            "mode_name" : "default",
+
+            "git" : {
+                "username" : "",
+                "email" : "",
+                "token" : ""
+            },
+
+            "applications" : ["firefox","brave","testthi"]
+
+        },
+
+        {
+            "mode_name" : "test-mode",
+
+            "git" : {
+                "username" : "",
+                "email" : "",
+                "token" : ""
+            },
+            "applications" : ["firefox","brave","HELLO"]
+
+        }
+
+
+    ]
+}
+
+
